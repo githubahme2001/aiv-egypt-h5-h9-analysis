@@ -1,0 +1,18 @@
+{
+ "N1": {
+  "cols_kept": 1308,
+  "identity": {
+   "within_legacy": 0.7898,
+   "within_recent": 0.9801,
+   "between": 0.7415
+  }
+ },
+ "N2": {
+  "cols_kept": 1410,
+  "identity": {
+   "within_H5N2": 0.9353,
+   "within_H9N2": 0.9567,
+   "between": 0.9258
+  }
+ }
+}

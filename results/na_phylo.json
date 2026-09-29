@@ -1,0 +1,52 @@
+{
+ "N1": {
+  "cols_kept": 1295,
+  "n": 87,
+  "identity": {
+   "within_legacy": 0.9738,
+   "within_recent": 0.9854,
+   "between": 0.8679
+  },
+  "topology": {
+   "legacy": {
+    "n": 45,
+    "mrca_tips": 45,
+    "purity": 1.0,
+    "monophyletic": true,
+    "support": 0.996
+   },
+   "recent": {
+    "n": 42,
+    "mrca_tips": 42,
+    "purity": 1.0,
+    "monophyletic": true,
+    "support": 1.0
+   }
+  }
+ },
+ "N2": {
+  "cols_kept": 1406,
+  "n": 51,
+  "identity": {
+   "within_H5N2": 0.9351,
+   "within_H9N2": 0.9618,
+   "between": 0.926
+  },
+  "topology": {
+   "H5N2": {
+    "n": 6,
+    "mrca_tips": 51,
+    "purity": 0.118,
+    "monophyletic": false,
+    "support": null
+   },
+   "H9N2": {
+    "n": 45,
+    "mrca_tips": 50,
+    "purity": 0.9,
+    "monophyletic": false,
+    "support": 0.224
+   }
+  }
+ }
+}

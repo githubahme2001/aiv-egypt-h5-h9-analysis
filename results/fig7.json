@@ -1,0 +1,23 @@
+{
+ "n_subs_mapped": 22,
+ "n_subs_total": 22,
+ "subs_not_in_structure": [],
+ "n_shared_positions_clades": 312,
+ "n_subs_low_entropy_both": 22,
+ "n_subs_shared": 22,
+ "mean_site_entropy_h5": 0.289,
+ "mean_site_entropy_h9": 0.125,
+ "mean_site_entropy_221": 0.152,
+ "mean_site_entropy_2344b": 0.069,
+ "pdb": "2FK0 chain A",
+ "pdb_validation": {
+  "128": "S",
+  "158": "N",
+  "185": "P",
+  "193": "K",
+  "196": "Q",
+  "226": "Q",
+  "227": "S",
+  "228": "G"
+ }
+}

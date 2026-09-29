@@ -1,0 +1,40 @@
+{
+ "H5": {
+  "genbank_retrieved": 1820,
+  "genbank_short": 597,
+  "genbank_short_pct": 32.8,
+  "genbank_egypt": 1792,
+  "genbank_egypt_pct": 98.5,
+  "gisaid_retrieved": 1447,
+  "unique_strains": 1507,
+  "strains_in_both": 1034,
+  "gisaid_strain_total": 1359,
+  "genbank_strain_total": 1182,
+  "overlap_pct_of_genbank": 87.5,
+  "overlap_pct_of_gisaid": 76.1,
+  "retained_seq_from": {
+   "GenBank": 178,
+   "GISAID": 1329
+  },
+  "after_qc": 1320
+ },
+ "H9": {
+  "genbank_retrieved": 785,
+  "genbank_short": 198,
+  "genbank_short_pct": 25.2,
+  "genbank_egypt": 778,
+  "genbank_egypt_pct": 99.1,
+  "gisaid_retrieved": 782,
+  "unique_strains": 879,
+  "strains_in_both": 645,
+  "gisaid_strain_total": 783,
+  "genbank_strain_total": 741,
+  "overlap_pct_of_genbank": 87.0,
+  "overlap_pct_of_gisaid": 82.4,
+  "retained_seq_from": {
+   "GISAID": 776,
+   "GenBank": 103
+  },
+  "after_qc": 839
+ }
+}

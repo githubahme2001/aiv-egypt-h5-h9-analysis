@@ -1,0 +1,11 @@
+# Sequence data is never committed: GISAID EpiFlu data may not be redistributed,
+# and the GenBank component is exactly reconstructable from scripts/retrieval/.
+*.fasta
+*.fna
+*.faa
+*.tree
+out/
+work/
+__pycache__/
+*.pyc
+.DS_Store

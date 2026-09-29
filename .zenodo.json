@@ -1,0 +1,14 @@
+{
+  "title": "Analysis code for haemagglutinin antigenic-site conservation in Egyptian H5Nx and H9N2 avian influenza viruses, 2010-2026",
+  "upload_type": "software",
+  "license": "MIT",
+  "creators": [
+    {
+      "name": "Khalil, Ahmed Aly",
+      "affiliation": "Veterinary Serum and Vaccine Research Institute (VSVRI), Agricultural Research Center, Abbasia, Cairo, Egypt"
+    }
+  ],
+  "description": "<p>Analysis and figure code, column-to-H3 numbering maps, accession lists and derived results for a study of haemagglutinin antigenic-site conservation and clade replacement in Egyptian H5Nx and H9N2 avian influenza viruses, 2010-2026 (data cut-off 28 September 2026).</p><p><strong>Sequence data are not included.</strong> GISAID EpiFlu data may not be redistributed; the GISAID component is identified by EPI_SET_260928dp (H5) and EPI_SET_260928rz (H9). The GenBank component is exactly reconstructable from the retrieval scripts, which bound the query on record publication date.</p>",
+  "keywords": ["avian influenza", "H5N1", "H5N8", "H9N2", "clade 2.3.4.4b", "haemagglutinin", "antigenic sites", "vaccine seed match", "phylogenetics", "Egypt"],
+  "access_right": "open"
+}

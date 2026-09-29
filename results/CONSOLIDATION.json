@@ -1,0 +1,114 @@
+{
+ "H5": {
+  "tag": "H5",
+  "cutoff": "2026-09-28",
+  "unique_strains": 1507,
+  "by_source": {
+   "GISAID": 1329,
+   "GenBank": 178
+  },
+  "by_subtype": {
+   "H5N1": 929,
+   "H5N8": 506,
+   "H5N2": 15,
+   "H5": 52,
+   "H5N5": 5
+  },
+  "by_year": {
+   "2010": 187,
+   "2011": 169,
+   "2012": 55,
+   "2013": 79,
+   "2014": 141,
+   "2015": 152,
+   "2016": 79,
+   "2017": 132,
+   "2018": 90,
+   "2019": 123,
+   "2020": 41,
+   "2021": 42,
+   "2022": 92,
+   "2023": 64,
+   "2024": 28,
+   "2025": 27,
+   "2026": 6
+  },
+  "held_by_both_repositories": 1034,
+  "gisaid_clade_counts": {
+   "2.2.1.2": 618,
+   "2.3.4.4b": 508,
+   "2.2.1": 98,
+   "2.2.1.1a": 77,
+   "2.2.1.1": 16,
+   "unassigned": 14,
+   "1": 12,
+   "2.3.4.2": 5,
+   "1.1": 4,
+   "2.3.4.4-like": 1,
+   "2.3.4.4e": 1,
+   "G5.6": 1,
+   "2.2": 1
+  },
+  "stats": {
+   "gisaid_location_not_egypt": 0,
+   "gisaid_raw": 1447,
+   "gisaid_kept": 1447,
+   "genbank_raw": 1820,
+   "genbank_kept": 1223,
+   "genbank_drop_country": 28,
+   "genbank_drop_year": 532,
+   "genbank_drop_subtype": 28,
+   "genbank_drop_nokey": 9
+  }
+ },
+ "H9": {
+  "tag": "H9",
+  "cutoff": "2026-09-28",
+  "unique_strains": 879,
+  "by_source": {
+   "GISAID": 776,
+   "GenBank": 103
+  },
+  "by_subtype": {
+   "H9N2": 856,
+   "H9": 23
+  },
+  "by_year": {
+   "2010": 1,
+   "2011": 25,
+   "2012": 52,
+   "2013": 40,
+   "2014": 50,
+   "2015": 84,
+   "2016": 40,
+   "2017": 31,
+   "2018": 54,
+   "2019": 143,
+   "2020": 145,
+   "2021": 32,
+   "2022": 72,
+   "2023": 68,
+   "2024": 20,
+   "2025": 16,
+   "2026": 6
+  },
+  "held_by_both_repositories": 645,
+  "gisaid_clade_counts": {
+   "G5.6": 774,
+   "2.3.4.4b": 3,
+   "Y9": 1,
+   "Unknown": 1,
+   "Y-like": 1
+  },
+  "stats": {
+   "gisaid_location_not_egypt": 0,
+   "gisaid_raw": 782,
+   "gisaid_kept": 782,
+   "genbank_raw": 785,
+   "genbank_kept": 750,
+   "genbank_drop_country": 7,
+   "genbank_drop_subtype": 27,
+   "genbank_drop_year": 1
+  }
+ }
+}

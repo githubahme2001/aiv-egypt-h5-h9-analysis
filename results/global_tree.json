@@ -1,0 +1,53 @@
+{
+ "EGY-2344b-2021-26": {
+  "n": 30,
+  "mrca_tips": 96,
+  "purity": 0.312,
+  "monophyletic": false,
+  "support": 0.887,
+  "mrca_composition": {
+   "EGY-2344b-H5N8-2016-20": 30,
+   "EGY-2344b-2021-26": 30,
+   "GLOBAL-2344b": 36
+  }
+ },
+ "EGY-2344b-H5N8-2016-20": {
+  "n": 30,
+  "mrca_tips": 95,
+  "purity": 0.316,
+  "monophyletic": false,
+  "support": 0.642,
+  "mrca_composition": {
+   "EGY-2344b-H5N8-2016-20": 30,
+   "EGY-2344b-2021-26": 29,
+   "GLOBAL-2344b": 36
+  }
+ },
+ "GLOBAL-2344b": {
+  "n": 36,
+  "mrca_tips": 95,
+  "purity": 0.379,
+  "monophyletic": false,
+  "support": 0.642,
+  "mrca_composition": {
+   "EGY-2344b-H5N8-2016-20": 30,
+   "EGY-2344b-2021-26": 29,
+   "GLOBAL-2344b": 36
+  }
+ },
+ "EGY-221x": {
+  "n": 30,
+  "mrca_tips": 30,
+  "purity": 1.0,
+  "monophyletic": true,
+  "support": 0.929,
+  "mrca_composition": {
+   "EGY-221x": 30
+  }
+ },
+ "nearest_neighbour_of_post2021_egyptian": {
+  "GLOBAL-2344b": 2,
+  "EGY-2344b-H5N8-2016-20": 6,
+  "EGY-2344b-2021-26": 22
+ }
+}
