@@ -1,8 +1,8 @@
 <#
-  fetch_ncbi_ALL.ps1
+  fetch_genbank_egypt.ps1
   Comprehensive NCBI GenBank retrieval for Egyptian H5 and H9 avian influenza.
 
-  What is different from the earlier fetch_ncbi_HA.ps1:
+  What is different from an earlier HA-only retrieval:
     * NO length filter. Every record is retrieved, partial and complete.
       Filtering happens downstream where it can be documented.
     * STRUCTURED METADATA for every accession - country, host, collection date,
@@ -14,10 +14,10 @@
       subtype string in the definition line.
 
   Run it from the folder you want the files in:
-      cd "C:\Users\ahme_\Claude\Projects\LLM"
-      .\fetch_ncbi_ALL.ps1
+      cd "scripts\retrieval"
+      .\fetch_genbank_egypt.ps1
   If PowerShell blocks it:
-      powershell -ExecutionPolicy Bypass -File .\fetch_ncbi_ALL.ps1
+      powershell -ExecutionPolicy Bypass -File .\fetch_genbank_egypt.ps1
 
   Outputs:
       NCBI_H5_HA.fasta   NCBI_H5_HA_metadata.tsv
@@ -29,8 +29,8 @@
 
 # =========================================================================
 #  RUN THIS AS A FILE, NOT BY PASTING IT INTO THE CONSOLE.
-#      cd "C:\Users\ahme_\Claude\Projects\LLM"
-#      .\fetch_ncbi_ALL.ps1
+#      cd "scripts\retrieval"
+#      .\fetch_genbank_egypt.ps1
 #  Pasting the body into the prompt runs it in whatever folder you happen to
 #  be in and mangles the multi-line blocks.
 # =========================================================================

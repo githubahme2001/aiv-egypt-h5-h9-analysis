@@ -9,8 +9,8 @@
   Output lands next to this script. Same cut-off as the main dataset so the two are comparable.
 
   Run:
-      cd "C:\Users\ahme_\Claude\Projects\LLM"
-      .\fetch_ncbi_GLOBAL_context.ps1
+      cd "scripts\retrieval"
+      .\fetch_genbank_global_context.ps1
 #>
 
 [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
